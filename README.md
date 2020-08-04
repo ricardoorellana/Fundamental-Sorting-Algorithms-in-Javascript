@@ -1,1 +1,1 @@
-# Fundamental-Sorting-Algorithms-in-Javascript
+# Sorting-Algorithms-in-Javascript
